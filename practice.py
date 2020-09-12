@@ -1,0 +1,7 @@
+print("enter value")
+a=input()
+a=int(a)
+print("a value is"+str(a))
+print("enter name")
+s=input()
+print("string"+s)
